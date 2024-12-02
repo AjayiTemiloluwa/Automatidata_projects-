@@ -1,10 +1,6 @@
 Course Five
-Regression Analysis: Simplifying Complex Data Relationships
- 
+'Regression Analysis: Simplifying Complex Data Relationships'
 
-
-Instructions 
-Use this PACE strategy document to record decisions and reflections as you work through this end-of-course project. As a reminder, this document is a resource that you can reference in the future, and a guide to help you consider responses and reflections posed at various points throughout projects. 
 
 PACE: Plan Stage
 Who are your external stakeholders for this project?
